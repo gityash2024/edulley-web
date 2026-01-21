@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edulley.com/sitemap.xml
+
+Disallow: /api/
+Disallow: /admin/
+Disallow: /login
+Disallow: /dashboard
+Disallow: /profile
